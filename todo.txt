@@ -1,2 +1,3 @@
-add documentation files
-Keep todo up to date.
+This is a list of things that still need to be done. Please keep up to date!
+1. Add documentation files
+2. 
