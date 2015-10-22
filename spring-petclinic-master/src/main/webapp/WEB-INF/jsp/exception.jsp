@@ -15,7 +15,7 @@
     <h2>Something happened...</h2>
 
     <p>${exception.message}</p>
-
+    <div><p>We are working on it!</p></div>
     <!-- Exception: ${exception.message}.
 		  	<c:forEach items="${exception.stackTrace}" var="stackTrace"> 
 				${stackTrace} 

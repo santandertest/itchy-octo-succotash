@@ -14,7 +14,7 @@
 <div class="container">
     <jsp:include page="../fragments/bodyHeader.jsp"/>
     <h2>Owners</h2>
-
+    <div><p>List of owners</p></div>
     <datatables:table id="owners" data="${selections}" row="owner" theme="bootstrap2"
                       cssClass="table table-striped" pageable="false" info="false" export="pdf">
         <datatables:column title="Name" cssStyle="width: 150px;" display="html">
